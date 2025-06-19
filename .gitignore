@@ -8,6 +8,11 @@ package-lock.json
 venv/
 __pycache__/
 .env
+# .gitignore
+.env
+*.env
+backend/.env
+frontend/.env
 
 # OS
 .DS_Store
